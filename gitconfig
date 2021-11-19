@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rosabelen.v0610@gmail.com
+	name = rosalinda belen
